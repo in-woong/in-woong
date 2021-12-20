@@ -7,7 +7,7 @@
  
  <h1>Woong</h1>
 
-﹏﹏﹏﹏﹏﹏﹏
+<br/>
  
 ### Work Experience
  
@@ -18,15 +18,14 @@
 <br/><br/>
 
 
-﹏﹏﹏﹏﹏﹏﹏
+
 
  <br/><br/>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inwoong100@gmail.com)](mailto:inwoong100@gmail.com)
 [![Velog Badge](http://img.shields.io/badge/-Velog-brightgreen?style=flat-square&logo=FF5722&link=https://velog.io/@inwoong100)](https://velog.io/@inwoong100)--
  
-  
-﹏﹏﹏﹏﹏﹏﹏
+
 
 <br/><br/>
  
