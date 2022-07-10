@@ -8,12 +8,37 @@
  <h1>Woong</h1>
 
 <br/>
+ <h2 style="text-align:left"> Github 바로가기 </h2>
+ - 강의 수강
+ <br/>
+ - codeTest Challenge
+ <br/>
+  [leetcode]("https://www.naver.com")
+ <br/>
+  [programmers]()
+ <br/>
+  [zerobase test]()
+ <br/>
+ <br/>
+ - Project
  
  <h3>Work Experience</h3>
  
 <br/><br/>
  
  <h3>Interest</h3>
+ <h4> Book</h4>
+ <div style="text-align:left">
+  개발 관련 책을 읽고 내용 정리 및 후기 작성 ([Velog](https://velog.io/@inwoong100))
+
+Refactoring 2판
+Http 완벽 가이드
+Clean Code
+모던 자바스크립트 Deep Dive
+개발자의 글쓰기
+   </div>
+
+ <h4> Article</h4>
  
 <br/><br/>
 
