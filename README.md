@@ -6,6 +6,7 @@
 <br/>
  
  <h1>Woong</h1>
+ ![inwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=in-woong&show_icons=true&theme=radical)
 
 <br/>
  <h2 style="text-align:left"> Github 바로가기 </h2>
