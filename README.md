@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fin-woong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align = "center">
@@ -6,51 +6,44 @@
 <br/>
  
  <h1>Woong</h1>
- ![inwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=in-woong&show_icons=true&theme=radical)
+ 
+ 생각하고, 발전하고, 기록하는 개발자 강인웅 입니다.
+ 
+  ![Woong's GitHub stats](https://github-readme-stats.vercel.app/api?username=in-woong&theme=darcula&show_icons=true)
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/inwoong100)
+ <div align="left">
+ 
+ [기술블로그](https://velog.io/@inwoong100)
+  - 프로젝트 회고록
+  - 월별 회고록
+  - TIL 작성
+  - 코드테스트 복습
+ 
+ [Daily블로그](https://blog.naver.com/kanginwoong)
+  - 일상생활
+ 
+ [포트폴리오](https://efficient-rosemary-5ce.notion.site/In-woong-Kang-4edce28b469f4c01b10f4592c10e1167)
+ </div>
 
 <br/>
- <h2 style="text-align:left"> Github 바로가기 </h2>
- - 강의 수강
- <br/>
- - codeTest Challenge
- <br/>
-  [leetcode]("https://www.naver.com")
- <br/>
-  [programmers]()
- <br/>
-  [zerobase test]()
- <br/>
- <br/>
- - Project
- 
- <h3>Work Experience</h3>
- 
-<br/><br/>
- 
- <h3>Interest</h3>
- <h4> Book</h4>
- <div style="text-align:left">
-  개발 관련 책을 읽고 내용 정리 및 후기 작성 ([Velog](https://velog.io/@inwoong100))
-
-Refactoring 2판
-Http 완벽 가이드
-Clean Code
-모던 자바스크립트 Deep Dive
-개발자의 글쓰기
-   </div>
-
- <h4> Article</h4>
- 
-<br/><br/>
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inwoong100@gmail.com)](mailto:inwoong100@gmail.com)
-[![Velog Badge](http://img.shields.io/badge/-Velog-brightgreen?style=flat-square&logo=FF5722&link=https://velog.io/@inwoong100)](https://velog.io/@inwoong100) 
+ 
+<br/>
+
+ <h2> Contact </h2>
+ 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inwoong100@gmail.com)](mailto:inwoong100@gmail.com) [![Velog Badge](http://img.shields.io/badge/-Velog-brightgreen?style=flat-square&logo=FF5722&link=https://velog.io/@inwoong100)](https://velog.io/@inwoong100) 
+ 
+
 
 
 <br/><br/>
  
-<h3>💻 Tech Stack 💻</h3>
+ 
+ <br/><br/>
+ 
+<h2>💻 Tech Stack 💻</h2>
  
 <br/>
 
@@ -70,8 +63,6 @@ Clean Code
 </div>
 
 <br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
 
 
